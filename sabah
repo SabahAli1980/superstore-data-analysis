@@ -1,0 +1,21 @@
+# 📊 Retail Sales & Customer Analytics Dashboard
+
+An end-to-end data analysis project focusing on retail sales performance, customer segmentation, and profit optimization using Python and Power BI.
+
+## 🚀 Key Highlights
+* **Data Cleaning & Preprocessing:** Handled missing values (including postal codes and customer records) and standardized data types using Python (`Pandas`).
+* **Interactive Dashboard:** Designed a dynamic multi-page Power BI dashboard tracking KPIs, revenue trends, and regional performance.
+* **Insights & Recommendations:** Identified top-performing product categories and high-value customer segments to boost profit margins.
+
+## 🛠️ Tech Stack
+* **Data Manipulation & Cleaning:** Python, Pandas, NumPy
+* **Data Visualization:** Power BI Desktop, Matplotlib
+* **Database & Querying:** SQL Server / T-SQL
+
+## 📈 Dashboard Overview
+- **Overview Page:** Total Sales, Total Profit, Quantity Sold, and Profit Margins.
+- **Customer Segmentation:** Breakdown between individual retail clients and corporate accounts.
+- **Geographic Analysis:** Regional sales performance mapping and shipping mode efficiency.
+
+---
+*Developed for advanced business intelligence and data-driven decision making.*
